@@ -1,0 +1,17 @@
+{
+  "name": "authtesting",
+  "description": "sample node server to test authentication using passport.js",
+  "version": "0.0.1",
+  "author": "Drew McArthur <drewmcarthur1+wp@gmail.com> (https://github.com/DrewMcArthur)",
+  "private": false,
+  "dependencies": {
+    "express": "~4.10.2",
+    "socket.io": "~1.2.0",
+    "mysql": "~2.5.3",
+    "passport": "~0.2.1",
+    "express-session": "~1.9.1",
+    "passport-wordpress": "0.0.3",
+    "wordpress-auth": "0.0.1",
+    "wordpress-rest-api": "~0.3.0"
+  }
+}
